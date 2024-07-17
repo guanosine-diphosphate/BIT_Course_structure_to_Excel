@@ -6,7 +6,7 @@ converting the website of BIT course structure to Excel
 you should manually get HTML source code since the author havn't learnt the way to spider it with authentication
 
 ***
-## 使用步骤：
+## 使用步骤（How to use)：
 1. 下载本项目源码或使用git运行：
 
 download the source code or run the following command with GIT:
