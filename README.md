@@ -48,3 +48,9 @@ paste them in `html.txt`
 4. 运行main.py,在项目根目录中获得`培养方案.xlsx`
 
 run main.py and generate the excel file in the root path of this project. The file name is in Chinese, but I believe you can manually modify this.
+
+***
+
+十分令人遗憾的是，使用`pyinstaller`生成的exe文件十分巨大且无法正常运行，因此本项目将来大概率不会发布Release
+
+It's a pity that the EXE file generated with `pyinstaller` appers to be extremely gigantic, and the file generated didn't work as expected. So `Release` is unlikely to be published in the future.

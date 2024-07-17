@@ -1,5 +1,6 @@
-import pandas as pd
+# import pandas as pd
 from bs4 import BeautifulSoup
+from pandas import DataFrame
 
 
 def process(file: str):
@@ -25,7 +26,7 @@ def process(file: str):
 
 def write_excel(input):
     course_list, columns = input
-    pd_list = pd.DataFrame(course_list, columns=columns)
+    pd_list = DataFrame(course_list, columns=columns)
     pd_list.to_excel('培养方案.xlsx', index=False)
 
 
