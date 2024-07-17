@@ -1,0 +1,2322 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head id="headerid1"><meta name=renderer content=webkit>
+
+<script>
+var __vpn_hostname_data = "webvpn.bit.edu.cn";
+var __vpn_protocol_data = "https";
+var __vpn_protocol_host = "https://webvpn.bit.edu.cn";
+var __vpn_app_hostname_data = "77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d";
+var __vpn_app_protocol_data = "http";
+var __vpn_app_port_data = "";
+var __vpn_js_file = "/wengine-vpn/js/main.js?ver=20230106-17";
+var __vpn_worker_mode = 2;
+var __vpn_host_crypt = true;
+var __vpn_host_crypt_key = "wrdvpnisthebest!";
+var __vpn_host_crypt_iv = "wrdvpnisthebest!";
+</script>
+<script src="/wengine-vpn/js/main.js?ver=20230106-17" charset="utf-8"></script> <base target='_self'>
+	<title>执行计划</title>
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">
+	<meta http-equiv="keywords" content="湖南强智科技教务系统">
+	<meta http-equiv="description" content="湖南强智科技教务系统">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11"/>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/commonJs/onlineExamination.js?vpn-7" language="javascript"></script>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/commonJs/jquery-1.9.1.min.js?vpn-7" language="javascript"></script>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/js/jquery-min.js?vpn-7" language="javascript"></script>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/js/jquery-form.js?vpn-7" language="javascript"></script>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/js/common.js?vpn-7" language="javascript"></script>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/js/calendar.js?vpn-7" language="javascript"></script>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/js/iepngfix_tilebg.js?vpn-7" language="javascript"></script>
+<script type="text/javascript" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/js/easyui/jquery.easyui.min.js?vpn-7" language="javascript"></script>
+<link href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/framework/images/common.css?vpn-6" rel="stylesheet" type="text/css"/>
+<link href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/framework/images/blue.css?vpn-6" rel="stylesheet" type="text/css" id="link_theme"/>
+<link href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/framework/images/workstation.css?vpn-6" rel="stylesheet" type="text/css"/>
+<link href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/css/easyui.css?vpn-6" rel="stylesheet" type="text/css"/>
+</head>
+<iframe id="notSession" name="notSession" style="display: none;" src=""></iframe>
+<script type="text/javascript">vpn_eval((function(){
+
+jQuery(document).ready(function(){
+	window.setInterval(function(){
+		 document.getElementById("notSession").src = "/jsxsd/framework/blankPage.jsp";
+	 }, 1000 * 60 * 10);
+});
+
+
+}
+).toString().slice(12, -2),"");</script>
+<body>
+
+
+
+
+
+
+
+<div class="Nsb_pw">
+  <div class="Nsb_top">
+    <div class="Nsb_top_logo"><table border="0" cellpadding="0" cellspacing="0"><tr><td height="75" valign="middle"><img style="display:;" id="imgLogo" src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/framework/images/index_logo.gif?vpn-1"/></td></tr></table></div>
+    <div class="Nsb_top_menu">
+        <div id="Top1_divLoginName" class="Nsb_top_menu_nc" style="color: #000000;">肖泽宇(1120223524)</div>
+        <ul>
+            <li><a id="TopUserSetting" info="个人设置" href="#" class="Nsb_top_menu_id"><img src="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/framework/images/Nsb_top_p1.jpg?vpn-1" id="Top1_imgTopSmallUserPhoto"/></a></li>
+            <span></span>
+
+
+            <li><a id="TopTheme" info="切换主题" href="#" class="Nsb_top_menu_style" onclick="var vpn_return;eval(vpn_rewrite_js((function () { changeDisplay(&#39;divTopTheme&#39;) }).toString().slice(14, -2), 2));return vpn_return;"></a></li>
+            <span id="Top1_LBackManageSpliter"></span>
+            <span id="Top1_LExitSpliter"></span>
+            <li id="Top1_LBackManage">
+          <!--   	<a info="个人设置" href="/jsxsd/grsz/grsz_xggrxx.do?Ves632DSdyV=NEW_JSD_WDZM" class="Nsb_top_menu_options"></a>  -->
+            </li>
+            <li id="Top1_LExit"><a info="退出" href="javascript:this.top.vpn_inject_scripts_window(this);vpn_eval((function () { Logout(&#39;/jsxsd&#39;); }).toString().slice(14, -2))" class="Nsb_top_menu_exit"></a></li>
+        </ul>
+     </div>
+     <div id="divTopTheme" group="topDiv" style="display:none;z-index:10000">
+        <div class="Nsb_top_c Nsb_top_c3">
+          <ul>
+            <li id="theme_blue" theme="blue" index="1" class="Nsb_top_c3_11" onclick="javascript:var vpn_return;eval(vpn_rewrite_js((function () { changeTheme(&#39;/jsxsd&#39;,&#39;blue&#39;,this); }).toString().slice(14, -2), 2));return vpn_return;"></li>
+            <li id="theme_green" theme="green" index="2" class="Nsb_top_c3_2" onclick="javascript:var vpn_return;eval(vpn_rewrite_js((function () { changeTheme(&#39;/jsxsd&#39;,&#39;green&#39;,this); }).toString().slice(14, -2), 2));return vpn_return;"></li>
+            <li id="theme_orange" theme="orange" index="3" class="Nsb_top_c3_3" onclick="javascript:var vpn_return;eval(vpn_rewrite_js((function () { changeTheme(&#39;/jsxsd&#39;,&#39;orange&#39;,this); }).toString().slice(14, -2), 2));return vpn_return;"></li>
+            <li id="theme_red" theme="red" index="4" class="Nsb_top_c3_4" onclick="javascript:var vpn_return;eval(vpn_rewrite_js((function () { changeTheme(&#39;/jsxsd&#39;,&#39;red&#39;,this); }).toString().slice(14, -2), 2));return vpn_return;"></li>
+            <li id="theme_purple" theme="purple" index="5" class="Nsb_top_c3_5" onclick="javascript:var vpn_return;eval(vpn_rewrite_js((function () { changeTheme(&#39;/jsxsd&#39;,&#39;purple&#39;,this); }).toString().slice(14, -2), 2));return vpn_return;"></li>
+            <li id="theme_gray" theme="gray" index="6" class="Nsb_top_c3_6" onclick="javascript:var vpn_return;eval(vpn_rewrite_js((function () { changeTheme(&#39;/jsxsd&#39;,&#39;gray&#39;,this); }).toString().slice(14, -2), 2));return vpn_return;"></li>
+          </ul>
+        </div>
+     </div>
+   </div>
+</div>
+<div class="Nsb_menu_pw">
+  <div class="Nsb_pw">
+    <div id="divFirstMenuClass" class="Nsb_menu menu_cn">
+      <ul>
+         <li class="Nsb_menu_li_now" title="首页">
+         	<a class="Nsb_menu_li_h" id="homepage" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/framework/xsMain.jsp"><span></span></a>
+         </li>
+
+         	<li title="我的桌面">
+         		<a id="calender_user_schedule" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/jxzl/jxzl_query?Ves632DSdyV=NEW_XSD_WDZM">我的桌面</a>
+         	</li>
+
+         	<li title="学籍成绩">
+         		<a id="calender_user_schedule" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/grxx/xsxx?Ves632DSdyV=NEW_XSD_XJCJ">学籍成绩</a>
+         	</li>
+
+         	<li title="培养管理">
+         		<a style="background:  #134489" id="calender_user_schedule" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/pyfa/pyfazd_query?Ves632DSdyV=NEW_XSD_PYGL">培养管理</a>
+         	</li>
+
+         	<li title="考试报名">
+         		<a id="calender_user_schedule" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/xsks/xsksap_query?Ves632DSdyV=NEW_XSD_KSBM">考试报名</a>
+         	</li>
+
+         	<li title="实践环节">
+         		<a id="calender_user_schedule" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/view/syjx/syyy_find.jsp?Ves632DSdyV=NEW_XSD_SJHJ">实践环节</a>
+         	</li>
+
+         	<li title="教学评价">
+         		<a id="calender_user_schedule" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/xspj/xspj_rk.do?Ves632DSdyV=NEW_XSD_JXPJ">教学评价</a>
+         	</li>
+
+         	<li title="实践创新">
+         		<a id="calender_user_schedule" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/innovate/dchdsb?Ves632DSdyV=NEW_XSD_SJCX">实践创新</a>
+         	</li>
+
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="Nsb_pw">
+
+
+
+
+
+
+
+
+<div id="LeftMenu1_divChildMenu" class="Nsb_layout_l Nsb_l_list" style="height: auto;">
+	<div class="Nsb_l_list_top"></div>
+
+			<h4 class="exam_user_exam">培养方案</h4>
+			<ul>
+
+
+				<li><a href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/pyfa/pyfazd_query">指导培养方案</a></li>
+
+
+
+				<li><a class="Nsb_l_list_now" href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/pyfa/pyfa_query">执行计划</a></li>
+
+
+
+				<li><a href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/pyfa/xlxz">选择线路</a></li>
+
+
+			</ul>
+
+			<h4 class="exam_user_exam">我的课表</h4>
+			<ul>
+
+
+				  <li><a href="https://webvpn.bit.edu.cn/http/77726476706e69737468656265737421faef5b842238695c720999bcd6572a216b231105adc27d/jwapp/sys/wdkbby/*default/index.do" target="_blank">学期理论课表 </a></li>
+
+
+			</ul>
+
+			<h4 class="exam_user_exam">选课管理</h4>
+			<ul>
+
+
+				<li><a href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/xsxk/xklc_list">学生选课中心</a></li>
+
+
+			</ul>
+
+			<h4 class="exam_user_exam">课程大纲</h4>
+			<ul>
+
+
+				<li><a href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/kcdg/kcdg_query.do">课程教学大纲</a></li>
+
+
+			</ul>
+
+</div>
+	<div class="Nsb_layout_r">
+	<div class="Nsb_r_title"><a href="/http/77726476706e69737468656265737421fae04c8f69326144300d8db9d6562d/jsxsd/framework/main.jsp">首页</a> » 培养方案 » 执行计划</div>
+	<table id="dataList" width="100%" border="0" cellspacing="0" cellpadding="0" class="Nsb_r_list Nsb_table">
+		<tr>
+            <th class="Nsb_r_list_thb" scope="col">序号</th>
+			<th class="Nsb_r_list_thb" scope="col">开课学期</th>
+			<th class="Nsb_r_list_thb" scope="col">课程编号</th>
+			<th class="Nsb_r_list_thb" scope="col">课程名称</th>
+			<th class="Nsb_r_list_thb" scope="col">开课单位</th>
+			<th class="Nsb_r_list_thb" scope="col">学分</th>
+			<th class="Nsb_r_list_thb" scope="col">总学时</th>
+			<th class="Nsb_r_list_thb" scope="col">考核方式</th>
+			<th class="Nsb_r_list_thb" scope="col">课程属性</th>
+			<th class="Nsb_r_list_thb" scope="col">课程性质</th>
+			<th class="Nsb_r_list_thb" scope="col">是否考试</th>
+		</tr>
+
+		<tr>
+			<td>1</td>
+			<td>2022-2023-1</td>
+			<td align="left">100011005</td>
+			<td align="left">新生研习和专业导论</td>
+			<td align="left">宇航学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>2</td>
+			<td>2022-2023-1</td>
+			<td align="left">100028012</td>
+			<td align="left">智能无人系统概论</td>
+			<td align="left">机电学院</td>
+			<td>0</td>
+			<td>18</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>3</td>
+			<td>2022-2023-1</td>
+			<td align="left">100070001</td>
+			<td align="left">计算机科学导论</td>
+			<td align="left">计算机学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>4</td>
+			<td>2022-2023-1</td>
+			<td align="left">100070012</td>
+			<td align="left">计算机科学与程序设计（C语言）</td>
+			<td align="left">计算机学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>5</td>
+			<td>2022-2023-1</td>
+			<td align="left">100070021</td>
+			<td align="left">计算机科学与程序设计（C++）</td>
+			<td align="left">计算机学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>6</td>
+			<td>2022-2023-1</td>
+			<td align="left">100091224</td>
+			<td align="left">物质科学导论</td>
+			<td align="left">材料学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>7</td>
+			<td>2022-2023-1</td>
+			<td align="left">100160501</td>
+			<td align="left">生命科学基础A</td>
+			<td align="left">生命学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>8</td>
+			<td>2022-2023-1</td>
+			<td align="left">100171018</td>
+			<td align="left">数学分析I</td>
+			<td align="left">数学与统计学院</td>
+			<td>6</td>
+			<td>96</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>9</td>
+			<td>2022-2023-1</td>
+			<td align="left">100171027</td>
+			<td align="left">专业导论（数学）</td>
+			<td align="left">数学与统计学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>10</td>
+			<td>2022-2023-1</td>
+			<td align="left">100180007</td>
+			<td align="left">专业导论</td>
+			<td align="left">物理学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>11</td>
+			<td>2022-2023-1</td>
+			<td align="left">100191005</td>
+			<td align="left">大学化学A</td>
+			<td align="left">化学与化工学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>12</td>
+			<td>2022-2023-1</td>
+			<td align="left">100191006</td>
+			<td align="left">专业导论</td>
+			<td align="left">化学与化工学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>13</td>
+			<td>2022-2023-1</td>
+			<td align="left">100210311</td>
+			<td align="left">新生研修与专业导论</td>
+			<td align="left">管理与经济学院</td>
+			<td>0</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>14</td>
+			<td>2022-2023-1</td>
+			<td align="left">100245205</td>
+			<td align="left">学术用途英语一级</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>15</td>
+			<td>2022-2023-1</td>
+			<td align="left">100270014</td>
+			<td align="left">形势与政策I</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>16</td>
+			<td>2022-2023-1</td>
+			<td align="left">100270024</td>
+			<td align="left">思想道德与法治</td>
+			<td align="left">马克思主义学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>17</td>
+			<td>2022-2023-1</td>
+			<td align="left">100300011</td>
+			<td align="left">专业导论</td>
+			<td align="left">徐特立学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>18</td>
+			<td>2022-2023-1</td>
+			<td align="left">100300012</td>
+			<td align="left">精工技术导论</td>
+			<td align="left">徐特立学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>19</td>
+			<td>2022-2023-1</td>
+			<td align="left">100300013</td>
+			<td align="left">智能动力与新能源专业导论</td>
+			<td align="left">徐特立学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>20</td>
+			<td>2022-2023-1</td>
+			<td align="left">100300015</td>
+			<td align="left">智能装备技术导论</td>
+			<td align="left">徐特立学院</td>
+			<td>0</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>选修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>21</td>
+			<td>2022-2023-1</td>
+			<td align="left">100320001</td>
+			<td align="left">体育I</td>
+			<td align="left">体育部</td>
+			<td>0.5</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>体育课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>22</td>
+			<td>2022-2023-1</td>
+			<td align="left">100740001</td>
+			<td align="left">国家安全概论</td>
+			<td align="left">国家安全与发展研究院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>23</td>
+			<td>2022-2023-1</td>
+			<td align="left">100930005</td>
+			<td align="left">大学生心理素质发展</td>
+			<td align="left">学生工作处</td>
+			<td>0</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>24</td>
+			<td>2022-2023-1</td>
+			<td align="left">100980003</td>
+			<td align="left">军事理论</td>
+			<td align="left">武装部</td>
+			<td>2</td>
+			<td>36</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>25</td>
+			<td>2022-2023-1</td>
+			<td align="left">100980004</td>
+			<td align="left">军事技能</td>
+			<td align="left">武装部</td>
+			<td>2</td>
+			<td>112</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>26</td>
+			<td>2022-2023-2</td>
+			<td align="left">100031152</td>
+			<td align="left">机械工程基础I</td>
+			<td align="left">机械与车辆学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>基础教育</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>27</td>
+			<td>2022-2023-2</td>
+			<td align="left">100036336</td>
+			<td align="left">智能机电系统应用工程实践</td>
+			<td align="left">机械与车辆学院</td>
+			<td>1</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>28</td>
+			<td>2022-2023-2</td>
+			<td align="left">100171019</td>
+			<td align="left">数学分析II</td>
+			<td align="left">数学与统计学院</td>
+			<td>6</td>
+			<td>96</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>29</td>
+			<td>2022-2023-2</td>
+			<td align="left">100172110</td>
+			<td align="left">线性代数A</td>
+			<td align="left">数学与统计学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>30</td>
+			<td>2022-2023-2</td>
+			<td align="left">100180111</td>
+			<td align="left">大学物理AⅠ</td>
+			<td align="left">物理学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>31</td>
+			<td>2022-2023-2</td>
+			<td align="left">100180116</td>
+			<td align="left">物理实验BⅠ</td>
+			<td align="left">物理学院</td>
+			<td>1</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>32</td>
+			<td>2022-2023-2</td>
+			<td align="left">100245206</td>
+			<td align="left">学术用途英语二级</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>33</td>
+			<td>2022-2023-2</td>
+			<td align="left">100270013</td>
+			<td align="left">中国近现代史纲要</td>
+			<td align="left">马克思主义学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>34</td>
+			<td>2022-2023-2</td>
+			<td align="left">100270015</td>
+			<td align="left">形势与政策Ⅱ</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>35</td>
+			<td>2022-2023-2</td>
+			<td align="left">100270030</td>
+			<td align="left">习近平新时代中国特色社会主义思想概论</td>
+			<td align="left">马克思主义学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>36</td>
+			<td>2022-2023-2</td>
+			<td align="left">100320002</td>
+			<td align="left">体育II</td>
+			<td align="left">体育部</td>
+			<td>0.5</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>体育课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>37</td>
+			<td>2023-2024-1</td>
+			<td align="left">100031315</td>
+			<td align="left">制造技术基础训练D</td>
+			<td align="left">机械与车辆学院</td>
+			<td>1</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>38</td>
+			<td>2023-2024-1</td>
+			<td align="left">100050217</td>
+			<td align="left">ECE实习</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>39</td>
+			<td>2023-2024-1</td>
+			<td align="left">100050220</td>
+			<td align="left">复变函数与数理方程</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>40</td>
+			<td>2023-2024-1</td>
+			<td align="left">100051271</td>
+			<td align="left">电子系统体验与工艺实践</td>
+			<td align="left">信息与电子学院</td>
+			<td>1</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>大类基础</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>41</td>
+			<td>2023-2024-1</td>
+			<td align="left">100172003</td>
+			<td align="left">概率与数理统计</td>
+			<td align="left">数学与统计学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>42</td>
+			<td>2023-2024-1</td>
+			<td align="left">100180121</td>
+			<td align="left">大学物理AⅡ</td>
+			<td align="left">物理学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>43</td>
+			<td>2023-2024-1</td>
+			<td align="left">100180125</td>
+			<td align="left">物理实验BⅡ</td>
+			<td align="left">物理学院</td>
+			<td>1</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>44</td>
+			<td>2023-2024-1</td>
+			<td align="left">100270016</td>
+			<td align="left">形势与政策Ⅲ</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>45</td>
+			<td>2023-2024-1</td>
+			<td align="left">100270025</td>
+			<td align="left">马克思主义基本原理</td>
+			<td align="left">马克思主义学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>46</td>
+			<td>2023-2024-1</td>
+			<td align="left">100320003</td>
+			<td align="left">体育III</td>
+			<td align="left">体育部</td>
+			<td>0.5</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>体育课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>47</td>
+			<td>2023-2024-1</td>
+			<td align="left">103051213</td>
+			<td align="left">模拟电子学A（Ⅰ）</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3.5</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>48</td>
+			<td>2023-2024-1</td>
+			<td align="left">103051214</td>
+			<td align="left">模拟电子学A（Ⅱ）</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3.5</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>49</td>
+			<td>2023-2024-2</td>
+			<td align="left">100270017</td>
+			<td align="left">形势与政策Ⅳ</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>50</td>
+			<td>2023-2024-2</td>
+			<td align="left">100270022</td>
+			<td align="left">毛泽东思想和中国特色社会主义理论体系概论</td>
+			<td align="left">马克思主义学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>51</td>
+			<td>2023-2024-2</td>
+			<td align="left">100320004</td>
+			<td align="left">体育Ⅳ</td>
+			<td align="left">体育部</td>
+			<td>0.5</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>体育课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>52</td>
+			<td>2023-2024-2</td>
+			<td align="left">103051217</td>
+			<td align="left">数字电路与系统</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>53</td>
+			<td>2023-2024-2</td>
+			<td align="left">103052312</td>
+			<td align="left">控制理论基础</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>54</td>
+			<td>2023-2024-2</td>
+			<td align="left">103053212</td>
+			<td align="left">数据结构与算法设计（C++描述）</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>55</td>
+			<td>2023-2024-2</td>
+			<td align="left">105050401</td>
+			<td align="left">数值计算方法</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>大类基础</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>56</td>
+			<td>2023-2024-2</td>
+			<td align="left">105052001</td>
+			<td align="left">信号处理理论与技术Ⅰ</td>
+			<td align="left">信息与电子学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>57</td>
+			<td>2023-2024-2</td>
+			<td align="left">105057001</td>
+			<td align="left">通信与网络基础理论及应用Ⅰ</td>
+			<td align="left">信息与电子学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>58</td>
+			<td>2023-2024-2</td>
+			<td align="left">105130001</td>
+			<td align="left">电磁理论、计算、应用Ⅰ</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>59</td>
+			<td>2024-2025-1</td>
+			<td align="left">100051398</td>
+			<td align="left">电路与电子线路课程设计</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>60</td>
+			<td>2024-2025-1</td>
+			<td align="left">100052379</td>
+			<td align="left">信号与信息处理课程设计</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>61</td>
+			<td>2024-2025-1</td>
+			<td align="left">100053377</td>
+			<td align="left">计算机与网络课程设计</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>62</td>
+			<td>2024-2025-1</td>
+			<td align="left">100054376</td>
+			<td align="left">电磁场与微波课程设计</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>63</td>
+			<td>2024-2025-1</td>
+			<td align="left">100058410</td>
+			<td align="left">信息系统与安全对抗理论</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>64</td>
+			<td>2024-2025-1</td>
+			<td align="left">100270005</td>
+			<td align="left">社会实践</td>
+			<td align="left">马克思主义学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>65</td>
+			<td>2024-2025-1</td>
+			<td align="left">100270018</td>
+			<td align="left">形势与政策Ⅴ</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>66</td>
+			<td>2024-2025-1</td>
+			<td align="left">103053314</td>
+			<td align="left">计算机原理与应用</td>
+			<td align="left">信息与电子学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>67</td>
+			<td>2024-2025-1</td>
+			<td align="left">105052002</td>
+			<td align="left">信号处理理论与技术Ⅱ</td>
+			<td align="left">信息与电子学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>68</td>
+			<td>2024-2025-1</td>
+			<td align="left">105057002</td>
+			<td align="left">通信与网络基础理论及应用Ⅱ</td>
+			<td align="left">信息与电子学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>69</td>
+			<td>2024-2025-1</td>
+			<td align="left">105130002</td>
+			<td align="left">电磁理论、计算、应用II</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>70</td>
+			<td>2024-2025-2</td>
+			<td align="left">100051387</td>
+			<td align="left">电子综合设计（课赛结合）</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>71</td>
+			<td>2024-2025-2</td>
+			<td align="left">100052378</td>
+			<td align="left">信号处理综合设计（课赛结合）</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>72</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055411</td>
+			<td align="left">实时数字信号处理技术</td>
+			<td align="left">信息与电子学院</td>
+			<td>2.5</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>73</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055415</td>
+			<td align="left">数字图像处理</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>74</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055416</td>
+			<td align="left">现代谱估计导论</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>75</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055418</td>
+			<td align="left">自适应信号处理</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>76</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055419</td>
+			<td align="left">FPGA与SOPC设计基础</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>77</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055420</td>
+			<td align="left">嵌入式系统原理与实践</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>78</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055430</td>
+			<td align="left">现代电子测量技术</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>79</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055431</td>
+			<td align="left">电磁兼容基础</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>80</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055432</td>
+			<td align="left">微波网络基础</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>81</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055434</td>
+			<td align="left">扩频信号处理技术与应用</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>82</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055437</td>
+			<td align="left">数字图像处理理论与系统设计</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>83</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055446</td>
+			<td align="left">高级数字信号处理</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>84</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055449</td>
+			<td align="left">智能多源感知</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>85</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055452</td>
+			<td align="left">信号处理仿真与应用</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>86</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055456</td>
+			<td align="left">空间SAR侦察系统原理及实验</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>87</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055457</td>
+			<td align="left">6G智能通信信号处理</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>88</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055460</td>
+			<td align="left">数字图像智能处理</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>89</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055461</td>
+			<td align="left">深度学习基础</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>90</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055463</td>
+			<td align="left">模式识别基础</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>91</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055464</td>
+			<td align="left">声呐技术</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>92</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055466</td>
+			<td align="left">高速宽带通信与信号处理</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>93</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055467</td>
+			<td align="left">面向宽带无线接入的光载无线系统</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>94</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055470</td>
+			<td align="left">人工智能宽带通信</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>95</td>
+			<td>2024-2025-2</td>
+			<td align="left">100055474</td>
+			<td align="left">FPGA数字系统设计</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>96</td>
+			<td>2024-2025-2</td>
+			<td align="left">100057373</td>
+			<td align="left">通信系统综合设计</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>97</td>
+			<td>2024-2025-2</td>
+			<td align="left">100057405</td>
+			<td align="left">通信网理论基础</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>98</td>
+			<td>2024-2025-2</td>
+			<td align="left">100057407</td>
+			<td align="left">移动通信</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>99</td>
+			<td>2024-2025-2</td>
+			<td align="left">100057408</td>
+			<td align="left">光纤通信</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>100</td>
+			<td>2024-2025-2</td>
+			<td align="left">100057409</td>
+			<td align="left">多媒体通信</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>101</td>
+			<td>2024-2025-2</td>
+			<td align="left">100057413</td>
+			<td align="left">数据通信与网络</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>102</td>
+			<td>2024-2025-2</td>
+			<td align="left">100058371</td>
+			<td align="left">网络空间安全综合设计（课赛结合）</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>限选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>103</td>
+			<td>2024-2025-2</td>
+			<td align="left">100058411</td>
+			<td align="left">信息系统安全与对抗技术</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>104</td>
+			<td>2024-2025-2</td>
+			<td align="left">100058412</td>
+			<td align="left">信息系统安全与对抗实践</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>105</td>
+			<td>2024-2025-2</td>
+			<td align="left">100270019</td>
+			<td align="left">形势与政策Ⅵ</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>106</td>
+			<td>2024-2025-2</td>
+			<td align="left">100300004</td>
+			<td align="left">工程导论</td>
+			<td align="left">徐特立学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>107</td>
+			<td>2024-2025-2</td>
+			<td align="left">100300010</td>
+			<td align="left">科学与工程计算</td>
+			<td align="left">徐特立学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>108</td>
+			<td>2024-2025-2</td>
+			<td align="left">100315001</td>
+			<td align="left">现代传感器及智能检测技术</td>
+			<td align="left">前沿交叉科学研究院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>109</td>
+			<td>2024-2025-2</td>
+			<td align="left">100315002</td>
+			<td align="left">天基态势感知技术</td>
+			<td align="left">前沿交叉科学研究院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>110</td>
+			<td>2024-2025-2</td>
+			<td align="left">100315003</td>
+			<td align="left">复杂网络导论</td>
+			<td align="left">前沿交叉科学研究院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>111</td>
+			<td>2024-2025-2</td>
+			<td align="left">101051312</td>
+			<td align="left">通信电路（全英文）</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>112</td>
+			<td>2024-2025-2</td>
+			<td align="left">103051319</td>
+			<td align="left">模拟通信电路与系统</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>113</td>
+			<td>2024-2025-2</td>
+			<td align="left">103052318</td>
+			<td align="left">雷达信号处理</td>
+			<td align="left">信息与电子学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>114</td>
+			<td>2024-2025-2</td>
+			<td align="left">103053315</td>
+			<td align="left">人工智能导论</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>115</td>
+			<td>2024-2025-2</td>
+			<td align="left">103054307</td>
+			<td align="left">微波工程</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>116</td>
+			<td>2024-2025-2</td>
+			<td align="left">103056310</td>
+			<td align="left">光电子学导论</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>117</td>
+			<td>2024-2025-2</td>
+			<td align="left">105052003</td>
+			<td align="left">信号处理理论与技术Ⅲ</td>
+			<td align="left">信息与电子学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>118</td>
+			<td>2024-2025-2</td>
+			<td align="left">105057003</td>
+			<td align="left">通信与网络基础理论及应用Ⅲ</td>
+			<td align="left">信息与电子学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>119</td>
+			<td>2024-2025-2</td>
+			<td align="left">105130003</td>
+			<td align="left">电磁理论、计算、应用Ⅲ</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>120</td>
+			<td>2025-2026-1</td>
+			<td align="left">100050424</td>
+			<td align="left">智能计算系统</td>
+			<td align="left">信息与电子学院</td>
+			<td>2.5</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>121</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055404</td>
+			<td align="left">天线理论与技术</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>122</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055405</td>
+			<td align="left">计算电磁学基础</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>123</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055409</td>
+			<td align="left">微波频率源设计</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>124</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055413</td>
+			<td align="left">随机数字信号处理</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>125</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055417</td>
+			<td align="left">信号检测与估计</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>126</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055433</td>
+			<td align="left">微波遥感成像信息处理导论</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>127</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055435</td>
+			<td align="left">电子对抗原理</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>128</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055436</td>
+			<td align="left">航天测控通信技术概论</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>129</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055439</td>
+			<td align="left">信号处理、通讯和控制中的估计理论（双语）</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>130</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055440</td>
+			<td align="left">计算机网络技术</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>131</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055447</td>
+			<td align="left">雷达系统导论</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>132</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055450</td>
+			<td align="left">微波电路与系统</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>133</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055451</td>
+			<td align="left">微波测量基础</td>
+			<td align="left">集成电路与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>134</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055453</td>
+			<td align="left">现代雷达与通信中的微波技术</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>135</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055454</td>
+			<td align="left">集成微波光子学导论</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>136</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055455</td>
+			<td align="left">定位导航授时（PNT）技术概论</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>137</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055458</td>
+			<td align="left">光信息处理设计与实现</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>138</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055459</td>
+			<td align="left">半导体芯片基础</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>139</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055462</td>
+			<td align="left">军事海洋学引论</td>
+			<td align="left">信息与电子学院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>140</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055465</td>
+			<td align="left">海洋声学基础</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>141</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055468</td>
+			<td align="left">无线光通信关键技术</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>142</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055471</td>
+			<td align="left">宽带毫米波通信技术</td>
+			<td align="left">信息与电子学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>143</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055472</td>
+			<td align="left">技术沟通</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考查</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>144</td>
+			<td>2025-2026-1</td>
+			<td align="left">100055473</td>
+			<td align="left">专业实习</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>96</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>145</td>
+			<td>2025-2026-1</td>
+			<td align="left">100058208</td>
+			<td align="left">信息网络</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>146</td>
+			<td>2025-2026-1</td>
+			<td align="left">100270020</td>
+			<td align="left">形势与政策Ⅶ</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>147</td>
+			<td>2025-2026-1</td>
+			<td align="left">101055452</td>
+			<td align="left">随机数字信号处理（全英文）</td>
+			<td align="left">信息与电子学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>任选</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>148</td>
+			<td>2025-2026-2</td>
+			<td align="left">100050419</td>
+			<td align="left">毕业设计（论文）</td>
+			<td align="left">信息与电子学院</td>
+			<td>8</td>
+			<td>256</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>专业课</td>
+			<td>是</td>
+		</tr>
+
+		<tr>
+			<td>149</td>
+			<td>2025-2026-2</td>
+			<td align="left">100270021</td>
+			<td align="left">形势与政策Ⅷ</td>
+			<td align="left">马克思主义学院</td>
+			<td>0.25</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>公共基础课程</td>
+			<td>是</td>
+		</tr>
+
+	</table>
+	</div>
+</div>
+<br />
+
+<div id="Footer1_divCopyright" class="Nsb_pw" style="display:;">
+  <div class="Nsb_rights">Copyright (C) 湖南强智科技发展有限公司 2003-2013 All Rights Reserved 湘ICP 备12010071号</div>
+</div>
+<script language="javascript">vpn_eval((function(){
+
+loadjs();
+function loadjs(){
+if( ''!=''){
+alert('');
+}
+
+}
+
+//合并学年学期列
+jQuery("#dataList").rowspan(1);
+
+
+}
+).toString().slice(12, -2),"");</script>
+</body>
+</html>
