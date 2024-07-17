@@ -11,22 +11,23 @@ def process(file: str):
     # print(trs[1])
     try:
         columns_raw = trs[1].find_all('th')
-        columns = []
-        for colum in columns_raw:
-            columns.append(colum.text)
-        course_list = []
-        for tr in trs:
-            course = []
-            tds = tr.find_all('td')
-            for td in tds:
-                course.append(td.text)
-            course_list.append(course)
-        course_list = course_list[2:]
+
     except IndexError:
         print("Make sure the html.txt isn't empty")
         input("Press Enter to continue...")
         return None
-
+    columns = []
+    for colum in columns_raw:
+        columns.append(colum.text)
+    course_list = []
+    for tr in trs:
+        course = []
+        tds = tr.find_all('td')
+        for td in tds:
+            course.append(td.text)
+        course_list.append(course)
+    course_list = course_list[2:]
+    print("Successfully processed data")
     return course_list, columns
 
 
@@ -34,11 +35,10 @@ def write_excel(input):
     course_list, columns = input
     pd_list = DataFrame(course_list, columns=columns)
     pd_list.to_excel('培养方案.xlsx', index=False)
+    print("Successfully wrote excel")
 
 
 if __name__ == '__main__':
     data = process("html.txt")
     if data is not None:
         write_excel(data)
-    else:
-        print("Failed to Process the txt file")
