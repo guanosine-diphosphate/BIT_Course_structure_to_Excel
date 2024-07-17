@@ -8,29 +8,27 @@ def process(file: str):
     soup = BeautifulSoup(f, 'html.parser')
     trs = soup.find_all('tr')
     # print(trs[1])
-    colums_raw = trs[1].find_all('th')
-    colums = []
-    for colum in colums_raw:
-        colums.append(colum.text)
-    courseList = []
+    columns_raw = trs[1].find_all('th')
+    columns = []
+    for colum in columns_raw:
+        columns.append(colum.text)
+    course_list = []
     for tr in trs:
         course = []
         tds = tr.find_all('td')
         for td in tds:
             course.append(td.text)
-        courseList.append(course)
-    courseList = courseList[2:]
-    return (courseList, colums)
+        course_list.append(course)
+    course_list = course_list[2:]
+    return course_list, columns
 
 
-def writeExcel(input):
-    courseList = input[0]
-    colums = input[1]
-    print(colums)
-    pd_list = pd.DataFrame(courseList, columns=colums)
+def write_excel(input):
+    course_list, columns = input
+    pd_list = pd.DataFrame(course_list, columns=columns)
     pd_list.to_excel('培养方案.xlsx', index=False)
 
 
 if __name__ == '__main__':
     data = process("html.txt")
-    writeExcel(data)
+    write_excel(data)
