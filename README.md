@@ -1,4 +1,4 @@
-# BIT_Course_structure_to_Excel
+# 北京理工大学培养方案导出脚本(BIT_Course_structure_to_Excel)
 
 将北京理工大学的培养方案页转换为excel
 converting the website of BIT course structure to Excel
